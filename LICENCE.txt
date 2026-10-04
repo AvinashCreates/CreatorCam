@@ -1,0 +1,2 @@
+CreatorCam is a personal project created for the user. Source is provided for personal development and experimentation.
+Third-party libraries remain under their respective licenses.

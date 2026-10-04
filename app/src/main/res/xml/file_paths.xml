@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Unsaved takes live here; other apps only ever see content:// URIs, never file paths. -->
+    <cache-path name="takes" path="takes/" />
+</paths>
