@@ -91,3 +91,6 @@ Recording states: Ready -> Recording -> Processing -> (Review) -> Saved, with Er
 * CameraX / ML Kit / Media3 / Compose call signatures (written from knowledge of the 1.4.1 / 16.1.7 / 1.5.1 / BOM 2024.12.01 APIs).
 * Everything that needs hardware: camera rotation/mirroring correctness on real sensors, GL on your GPU, encoder behaviour,
   A/V sync, avatar alignment, thermal/perf on a Poco C65. The test plan is in `TESTING.md`.
+
+  
+[![Architecture diagram of avinashcreates/creatorcam](https://gitdiagram.com/avinashcreates/creatorcam/diagram.png)](https://gitdiagram.com/avinashcreates/creatorcam?utm_source=readme&utm_medium=picture)
